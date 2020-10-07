@@ -1,5 +1,5 @@
 # hexo-text-theme
- 简体中文|English
+ 简体中文|[English](https://github.com/i35010u/hexo-text-theme/README_ENG.md)
 
 ![下载](https://i.loli.net/2020/10/08/52pXdUrQ6sL1YSe.png)
 
