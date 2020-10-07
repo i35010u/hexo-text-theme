@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title></title>
+    <title><%- theme.title %></title>
     <meta charset="utf-8">
 </head>
 <body>
@@ -10,8 +10,6 @@
 
     <%- include("index.ejs") %>
 
-    <%- include("post.ejs") %>
-
     <!-- 一般在写逻辑的时候会用到这个标签，这个标签不会输出到页面上 -->
     <%  %>
 
@@ -19,7 +17,6 @@
 
     <% site.posts.forEach(function(post){ %>
 
-        <%- post.path %>
         <br />
 
         <a href="/<%- post.path %>"><%- post.title %></a>
