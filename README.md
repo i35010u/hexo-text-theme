@@ -12,7 +12,7 @@
 安装它真tm简单，复制粘贴下面的东西：
 
 ```shell
-git clone https://github.com/i35010u/hexo-text-theme.git themes\text
+git clone https://github.com/i35010u/hexo-text-theme.git themes/text
 ```
 
 这需要你安装了Git。
