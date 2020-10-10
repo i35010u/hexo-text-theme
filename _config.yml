@@ -1,1 +1,5 @@
 title: 一个纯文本网站
+# 主页URL（完整的，带有协议头的）
+baseurl: http://localhost:4000/
+# 页面下方的视频BV号
+BV: BV1HE411J7oc
